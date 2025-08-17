@@ -1,0 +1,50 @@
+/* style.css */
+/* Estilização da sidebar - Navegação com feedback visual */
+.step-current {
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #1a1a1a;
+}
+
+.step-done {
+    color: white;
+    font-weight: normal;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.step-pending {
+    color: #ccc;
+    font-weight: normal;
+    font-size: 1.1rem;
+    padding: 8px;
+    cursor: not-allowed;
+}
+
+.step-current:hover,
+.step-done:hover {
+    background-color: #333;
+    transition: background-color 0.3s;
+}
+
+/* Estilo geral */
+.reportview-container {
+    background: #0e0e0e;
+    color: white;
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #f0f0f0;
+}
+
+/* Fundo da página */
+.stApp {
+    background-color: #121212;
+    color: white;
+}

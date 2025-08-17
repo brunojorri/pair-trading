@@ -1,0 +1,5 @@
+{
+  "theme": "bloomberg",
+  "tickers_file": "meus_tickers.json",
+  "cache_ttl_hours": 1
+}

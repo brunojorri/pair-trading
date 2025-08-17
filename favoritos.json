@@ -1,0 +1,29 @@
+{
+  "pares_salvos": [
+    {
+      "ativo1": "ITUB4.SA",
+      "ativo2": "BBDC4.SA",
+      "nome": "Bancos Big 2"
+    },
+    {
+      "ativo1": "BBAS3.SA",
+      "ativo2": "B3SA3.SA",
+      "nome": "BBAS3 vs B3SA3"
+    },
+    {
+      "ativo1": "PETR4.SA",
+      "ativo2": "PETR3.SA",
+      "nome": "PETR4 vs PETR3"
+    },
+    {
+      "ativo1": "GGBR4.SA",
+      "ativo2": "GOAU4.SA",
+      "nome": "GGBR4 vs GOAU4"
+    },
+    {
+      "ativo1": "ABEV3.SA",
+      "ativo2": "ALPA4.SA",
+      "nome": "ABEV3 vs ALPA4"
+    }
+  ]
+}
